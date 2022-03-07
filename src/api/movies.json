@@ -1,0 +1,39 @@
+{
+  "movies": [
+    {
+      "id": 2,
+      "name": "Interstellar",
+      "rating": 6.3,
+      "overview": "This is a wider with supporting text below as a natural lead-in to additional content",
+      "imageURL": "https://tr.web.img2.acsta.net/pictures/14/10/09/15/52/150664.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Arrow",
+      "rating": 7.9,
+      "overview": "This is a wider with supporting text below as a natural lead-in to additional content",
+      "imageURL": "https://m.media-amazon.com/images/M/MV5BMTI0NTMwMDgtYTMzZC00YmJhLTg4NzMtMTc1NjI4MWY4NmQ4XkEyXkFqcGdeQXVyNTY3MTYzOTA@._V1_.jpg"
+    },
+    {
+      "id": 4,
+      "name": "The Batman",
+      "rating": 5.3,
+      "overview": "This is a wider with supporting text below as a natural lead-in to additional content",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/tr/thumb/c/c4/The_Batman_%28film%29.png/220px-The_Batman_%28film%29.png"
+    },
+    {
+      "id": 5,
+      "name": "Corgi",
+      "rating": 9.3,
+      "overview": "This is a wider with supporting text below as a natural lead-in to additional content",
+      "imageURL": "https://tr.web.img4.acsta.net/pictures/19/03/22/15/34/2683349.png"
+    },
+    {
+      "id": 6,
+      "name": "Avengers",
+      "rating": 9.8,
+      "overview": "This is a wider with supporting text below as a natural lead-in to additional content",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/tr/6/67/Avengersendgame.jpg"
+    }
+  ]
+}
